@@ -648,7 +648,6 @@ dist/
 # Flycheck
 flycheck_*.el
 
-
 # projectiles files
 .projectile
 
@@ -1116,8 +1115,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-
-localtunel.vbs
-start.bat
-**/tmp.sql
